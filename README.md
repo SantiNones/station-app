@@ -103,49 +103,6 @@
  
  ## Screenshots
  
- ### Where to put screenshots
- 
- Create the following folder structure at the **project root** (same level as this `README.md`):
- 
- ```
- assets/
-   screenshots/
- ```
- 
- Then add your images here:
- - `assets/screenshots/01-landing.png`
- - `assets/screenshots/02-cafe-list.png`
- - `assets/screenshots/03-cafe-details.png`
- - `assets/screenshots/04-reservations-flow.png`
- - `assets/screenshots/05-owner-login.png`
- - `assets/screenshots/06-sign-in.png`
- 
- ### Screenshot order (recommended)
- 
- 1. Landing / value proposition
- 2. Café discovery (list)
- 3. Café details
- 4. Reservation flow (time slot selection + confirmation)
- 5. Owner login
- 6. Sign-in (guest auth)
- 
- ### Recommended dimensions
- 
- - **Desktop**: 1440×900 or 1440×1024
- - **Mobile** (optional): 390×844 (iPhone 14) or similar
- 
- ### How to capture “recruiter-grade” screenshots
- 
- - Use **realistic sample data** (seeded cafés, clean names, realistic amenities)
- - Prefer **light mode** unless your design is explicitly dark-first
- - Hide noisy browser UI:
-   - use Chrome’s “Capture full size screenshot” or a clean window crop
- - Keep the UI consistent:
-   - same zoom level (100%)
-   - same viewport across all images
- - Capture states that tell a story:
-   - empty state, loading state, success confirmation (if implemented)
- 
  ### Screenshot placeholders
  
  ![STATION Landing](assets/screenshots/01-landing.png)
