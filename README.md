@@ -148,14 +148,17 @@
  
  ### Screenshot placeholders
  
- ```md
  ![STATION Landing](assets/screenshots/01-landing.png)
+ 
  ![Café List](assets/screenshots/02-cafe-list.png)
+ 
  ![Café Details](assets/screenshots/03-cafe-details.png)
+ 
  ![Reservations Flow](assets/screenshots/04-reservations-flow.png)
+ 
  ![Owner Login](assets/screenshots/05-owner-login.png)
+ 
  ![Sign In](assets/screenshots/06-sign-in.png)
- ```
  
  ---
  
