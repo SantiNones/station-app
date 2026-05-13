@@ -1,0 +1,15 @@
+{
+  "name": "workhop",
+  "private": true,
+  "workspaces": [
+    "station-next"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace station-next",
+    "build": "npm run build --workspace station-next",
+    "start": "npm run start --workspace station-next",
+    "lint": "npm run lint --workspace station-next",
+    "db:migrate": "npm run db:migrate --workspace station-next",
+    "db:seed": "npm run db:seed --workspace station-next"
+  }
+}
