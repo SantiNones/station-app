@@ -103,8 +103,6 @@
  
  ## Screenshots
  
- ### Screenshot placeholders
- 
  ![STATION Landing](assets/screenshots/01-landing.png)
  
  ![Café List](assets/screenshots/02-cafe-list.png)
